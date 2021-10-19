@@ -13,6 +13,7 @@
 		BFED46142718A42600CEC70D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFED46122718A42600CEC70D /* Main.storyboard */; };
 		BFED46162718A42800CEC70D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFED46152718A42800CEC70D /* Assets.xcassets */; };
 		BFED46192718A42800CEC70D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFED46172718A42800CEC70D /* LaunchScreen.storyboard */; };
+		BFED46212718B1D500CEC70D /* TextFieldTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFED46202718B1D500CEC70D /* TextFieldTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BFED46152718A42800CEC70D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFED46182718A42800CEC70D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFED461A2718A42800CEC70D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFED46202718B1D500CEC70D /* TextFieldTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BFED46152718A42800CEC70D /* Assets.xcassets */,
 				BFED46172718A42800CEC70D /* LaunchScreen.storyboard */,
 				BFED461A2718A42800CEC70D /* Info.plist */,
+				BFED46202718B1D500CEC70D /* TextFieldTableViewCell.swift */,
 			);
 			path = settingsModel;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				BFED46112718A42600CEC70D /* ViewController.swift in Sources */,
 				BFED460D2718A42600CEC70D /* AppDelegate.swift in Sources */,
 				BFED460F2718A42600CEC70D /* SceneDelegate.swift in Sources */,
+				BFED46212718B1D500CEC70D /* TextFieldTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
